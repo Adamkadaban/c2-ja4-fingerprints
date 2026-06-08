@@ -1,0 +1,28 @@
+tool,url,hash,protocol,signature,commit
+AdaptixC2,https://github.com/Adaptix-Framework/AdaptixC2,JA4,HTTPS API,t13i3111h2_e8f1e7e78f70_b26ce05bbdd6,a4b80bf370f704d6843e69433bfb5c06274f57df
+AtlasC2,https://github.com/Gr1mmie/AtlasC2,JA4H,HTTP plaintext,ge11nn020000_609437d8192d_000000000000_000000000000,98eb7d294f0dabee8bf05d099bdf868aeca6c022
+AtlasC2,https://github.com/Gr1mmie/AtlasC2,JA4H,HTTP plaintext,ge11nn030000_86ab2bdf2091_000000000000_000000000000,98eb7d294f0dabee8bf05d099bdf868aeca6c022
+CALDERA,https://github.com/mitre/caldera,JA4H,HTTP plaintext,po11nn040000_b9c176b8216c_000000000000_000000000000,3735d9eb08685ef5a64f82042ad2107872386cf0
+Covenant,https://github.com/cobbr/Covenant,JA4,HTTPS admin UI/API,t13i3111h2_e8f1e7e78f70_b26ce05bbdd6,5decc3ccfab04e6e881ed00c9de649740dac8ad1
+Covenant,https://github.com/cobbr/Covenant,JA4,HTTPS listener probe,t13i3111h2_e8f1e7e78f70_b26ce05bbdd6,5decc3ccfab04e6e881ed00c9de649740dac8ad1
+Havoc,https://github.com/HavocFramework/Havoc,JA4,HTTPS,t13i1012h2_01be160bb49b_e24568c0d440,c84f7755a8b1c0f737576bdd3a0e982a296012f1
+Havoc,https://github.com/HavocFramework/Havoc,JA4H,HTTP plaintext,po11nn070000_517823f2c371_000000000000_000000000000,c84f7755a8b1c0f737576bdd3a0e982a296012f1
+Havoc,https://github.com/HavocFramework/Havoc,JA4H,HTTP plaintext malleable profile,po11nr110000_757db81c297b_000000000000_000000000000,c84f7755a8b1c0f737576bdd3a0e982a296012f1
+Havoc,https://github.com/HavocFramework/Havoc,JA4S,HTTPS,t130200_1301_a56c5b993250,c84f7755a8b1c0f737576bdd3a0e982a296012f1
+Realm,https://github.com/spellshift/realm,JA4,gRPC over TLS / HTTP2,t13i1010h2_61a7ad8aa9b6_3fcd1a44f3e3,c8ff867ead302e03808415dbb90bff1d1b225a55
+Realm,https://github.com/spellshift/realm,JA4,HTTP/1.1 over TLS,t13i101000_61a7ad8aa9b6_dc02626b439c,c8ff867ead302e03808415dbb90bff1d1b225a55
+Realm,https://github.com/spellshift/realm,JA4,QUIC,u13d0312rc_55b375c5d22e_834386177a8c,c8ff867ead302e03808415dbb90bff1d1b225a55
+Realm,https://github.com/spellshift/realm,JA4H,HTTP/1.1 plaintext,po11nn040000_ea8d9d1bb0cb_000000000000_000000000000,c8ff867ead302e03808415dbb90bff1d1b225a55
+Realm,https://github.com/spellshift/realm,JA4S,gRPC over TLS / HTTP2,t130200_1301_a56c5b993250,c8ff867ead302e03808415dbb90bff1d1b225a55
+Realm,https://github.com/spellshift/realm,JA4S,HTTP/1.1 over TLS,t130200_1301_a56c5b993250,c8ff867ead302e03808415dbb90bff1d1b225a55
+SharpC2,https://github.com/rasta-mouse/SharpC2,JA4S,HTTPS handler probe,t130200_1302_a56c5b993250,dd118fb36ff665d218e1f39cf92c231d61625441
+SharpC2,https://github.com/rasta-mouse/SharpC2,JA4S,HTTPS teamserver API,t130200_1302_a56c5b993250,dd118fb36ff665d218e1f39cf92c231d61625441
+Sliver,https://github.com/BishopFox/sliver,JA4,HTTPS C2,t13i131000_f57a46bbacb6_e5728521abd4,3bbaf805104dcc4a75414ee0084e8de50702cad4
+Sliver,https://github.com/BishopFox/sliver,JA4,mutual TLS,t13i131000_f57a46bbacb6_e5728521abd4,3bbaf805104dcc4a75414ee0084e8de50702cad4
+Sliver,https://github.com/BishopFox/sliver,JA4,mutual TLS beacon,t13i131000_f57a46bbacb6_e5728521abd4,3bbaf805104dcc4a75414ee0084e8de50702cad4
+Sliver,https://github.com/BishopFox/sliver,JA4H,HTTP C2 plaintext,ge11cn040000_6d5a62ca5b6a_94a2776e7bd6_18cb85ae66cf,3bbaf805104dcc4a75414ee0084e8de50702cad4
+Sliver,https://github.com/BishopFox/sliver,JA4H,HTTP C2 plaintext,po11cn050000_bb52516416a2_94a2776e7bd6_18cb85ae66cf,3bbaf805104dcc4a75414ee0084e8de50702cad4
+Sliver,https://github.com/BishopFox/sliver,JA4H,HTTP C2 plaintext,po11nn050000_bb52516416a2_000000000000_000000000000,3bbaf805104dcc4a75414ee0084e8de50702cad4
+Sliver,https://github.com/BishopFox/sliver,JA4S,HTTPS C2,t130200_1301_a56c5b993250,3bbaf805104dcc4a75414ee0084e8de50702cad4
+Sliver,https://github.com/BishopFox/sliver,JA4S,mutual TLS,t130200_1301_a56c5b993250,3bbaf805104dcc4a75414ee0084e8de50702cad4
+Sliver,https://github.com/BishopFox/sliver,JA4S,mutual TLS beacon,t130200_1301_a56c5b993250,3bbaf805104dcc4a75414ee0084e8de50702cad4
